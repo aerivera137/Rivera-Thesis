@@ -1,0 +1,6 @@
+Network_zones,Network_Lines,z1,z2,z3,z4,Line_Max_Flow_MW,Line_Min_Flow_MW,transmission_path_name,Line_Reinforcement_Cost_per_MWyr,Line_Reinforcement_Cost_per_MW,Line_Loss_Percentage,Line_Max_Reinforcement_MW,DerateCapRes_1,CapRes_Excl_1
+z1,1,1,-1,0,0,1013.265,1013.265,East_to_North,34337,721476.103812319,0.02,1013.0,0.95,0
+z2,2,1,0,-1,0,1276.155,1276.155,East_to_South,34337,721476.103812319,0.02,1276.0,0.95,0
+z3,3,0,1,-1,0,523.71,523.71,North_to_South,34337,721476.103812319,0.02,524.0,0.95,0
+z4,4,0,1,0,-1,767.97,767.97,North_to_West,34337,721476.103812319,0.02,768.0,0.95,0
+,5,0,0,1,-1,311.535,311.535,South_to_West,34337,721476.103812319,0.02,312.0,0.95,0
